@@ -1,4 +1,5 @@
 # Demo-MPC
+<img width="999" height="806" alt="image" src="https://github.com/user-attachments/assets/46d7f37b-6606-4a4f-90bd-051859a8455e" />
 
 A minimal MCP chat agent using Gemini and a Tavily web search tool.
 
